@@ -28,11 +28,11 @@ The dashboard helps answer critical business questions, such as:
 ## Dashboard
 
 ### Page 1 ->
-![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Insurance%20Data%20Analytics/Page%201.png)
 ### Page 2 ->
-![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%202.png)
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Insurance%20Data%20Analytics/Page%202.png)
 ### Page 3 ->
-![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/page%203.png)
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Insurance%20Data%20Analytics/page%203.png)
 
 ## 📈 Project Insights
 - Sales Performance: A steady increase in policy sales with peak sales during specific months.
