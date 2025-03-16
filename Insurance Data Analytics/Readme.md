@@ -5,8 +5,8 @@
 This Power BI dashboard analyzes and visualizes key performance indicators (KPIs) for Prism Insurance Pvt Ltd. It provides actionable insights into policy sales, claims processing, customer trends, and overall business performance. The goal is to enhance data-driven decision-making by presenting critical metrics interactively and intuitively.
 
 ## 📊 Dataset Used
-- <a href="https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Insurance%2BCustomer%2BFeedback.xlsx">Dataset-1</a>
-- <a href="https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/InsuranceData.csv">Dataset-2</a>
+- <a href="https://github.com/Abhishek2999/Insurance-Data-Analytics-Power-BI-Dashboard/blob/main/Insurance%2BCustomer%2BFeedback.xlsx">Dataset-1</a>
+- <a href="https://github.com/Abhishek2999/Insurance-Data-Analytics-Power-BI-Dashboard/blob/main/InsuranceData.csv">Dataset-2</a>
 
 ## 🔍 Key Questions (KPIs) Addressed
 The dashboard helps answer critical business questions, such as:
